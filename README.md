@@ -25,7 +25,7 @@ Modify the inference code with your model and game loop as you like.
 
 ## 📚 Citation
 
-If you find LinkedIn-banner-generator is useful, please consider giving us a star 🌟 and citing it.
+If you find Codingame-weights-optimizer is useful, please consider giving us a star 🌟 and citing it.
 
 ```bibtex
 @software{Codingame-weights-optimizer,
