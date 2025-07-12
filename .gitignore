@@ -1,0 +1,3 @@
+*.npz
+*.txt
+!requirements.txt
